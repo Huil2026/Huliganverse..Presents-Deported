@@ -1,0 +1,6 @@
+{
+  "name": "Huliganverse Presents: Deported",
+  "description": "A browser-based narrative migration management game about consequences, third chances, and city-building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
